@@ -36,7 +36,7 @@ We implemented an end-to-end data science pipeline—from raw data cleaning to h
 
 ## 📂 Dataset Information
 The repository includes the **raw dataset** used for this analysis.
-* **File:** `RTA_Dataset.csv` 
+* **File:** `RTA_Dataset.xlsx` 
 * **Description:** Contains patient demographics, accident timestamps, vehicle details, and hospital admission info.
 * **Preprocessing:** The notebook handles missing value imputation, timestamp extraction (Hour/Day/Month), and categorical encoding (One-Hot/Label).
 
@@ -116,7 +116,7 @@ jupyter notebook notebooks/Healthcare_Classification_Analysis.ipynb
 │   ├── correlation_heatmap.png
 │   └── injury_status_distribution.png
 │
-├── RTA_Dataset.csv           # Raw Dataset (Included)
+├── RTA_Dataset.xlsx           # Raw Dataset (Included)
 ├── Project_Report.pdf        
 ├── requirements.txt          # Dependencies
 └── README.md                 # Documentation
