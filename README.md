@@ -125,7 +125,21 @@ jupyter notebook notebooks/Healthcare_Classification_Analysis.ipynb
 
 ---
 
-## 📜 License
+## 📜 License & Attribution
 
-This project is open-source and available under the **MIT License**. You are free to use, modify, and distribute this project with proper attribution.
+This project is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+**You are free to:**
+
+* **Share** — copy and redistribute the material in any medium or format.
+* **Adapt** — remix, transform, and build upon the material.
+
+**Under the following terms:**
+
+* **Attribution (Credit Required):** You must give appropriate credit to the original author (**Ahsan Rizvi**), provide a link to this repository, and indicate if changes were made.
+* **NonCommercial:** You may not use the material for commercial purposes without explicit permission.
+
+> *If you use this code in your own research or project, please cite:*
+> **Rizvi, A. (2024). Healthcare Data Classification: Patient Status & Injury Analysis. GitHub Repository.**
+
 
