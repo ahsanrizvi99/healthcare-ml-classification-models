@@ -57,10 +57,10 @@ We compared **Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM, 
 ### 3. Data Insights
 Our analysis revealed significant correlations between accident time, vehicle type, and injury severity.
 
-<p float="left">
-  <img src="assets/correlation_heatmap.png" width="48%" />
-  <img src="assets/injury_status_distribution.png" width="48%" /> 
-</p>
+<img src="assets/correlation_heatmap.png" width="80%" />
+<br><br>
+<img src="assets/injury_status_distribution.png" width="80%" />
+
 
 ---
 
